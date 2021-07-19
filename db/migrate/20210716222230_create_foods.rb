@@ -5,6 +5,8 @@ class CreateFoods < ActiveRecord::Migration[6.1]
       t.string :ingredients, array: true, default: []
       t.string :url
       t.string :directions, array: true, default: []
+      t.string :img
+      t.string :image
       
       t.timestamps
     end

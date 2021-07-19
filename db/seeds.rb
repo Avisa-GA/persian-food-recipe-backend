@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Foods.create([
+Food.create([
   {
     "directions": [
         "Cook onions in oil in a 4-quart heavy pot over medium heat, stirring occasionally, until golden brown, 15 to 20 minutes.",

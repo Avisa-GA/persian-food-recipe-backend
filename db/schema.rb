@@ -20,6 +20,8 @@ ActiveRecord::Schema.define(version: 2021_07_16_222230) do
     t.string "ingredients", default: [], array: true
     t.string "url"
     t.string "directions", default: [], array: true
+    t.string "img"
+    t.string "image"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
