@@ -36,6 +36,7 @@ class FoodsController < ApplicationController
   # DELETE /foods/1
   def destroy
     @food.destroy
+    render json: get_foods
   end
 
   private
