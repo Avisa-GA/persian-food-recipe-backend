@@ -393,7 +393,8 @@ Food.create([
         "2 pounds beef top sirloin, cut into large cubes"
     ],
     "title": "Persian Kabob",
-    "url": "https://familyspice.com/wp-content/uploads/2018/03/rustic_kabob_koobideh_680.jpg"
+    "url": "http://allrecipes.com/recipe/55022/persian-kabob/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7806412.jpg&q=85"
 },
 
 {
