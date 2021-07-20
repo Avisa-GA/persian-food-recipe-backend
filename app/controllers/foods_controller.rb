@@ -36,7 +36,6 @@ class FoodsController < ApplicationController
   # DELETE /foods/1
   def destroy
     @food.destroy
-    render json: get_foods
   end
 
   private
@@ -53,6 +52,7 @@ class FoodsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def food_params
-      params.require(:food).permit(:title, :ingredients, :url, :directions)
-    end
+      params.require(:food).permit(:title, :url, :img, :directions => [], :ingredients => [])
+    
+     end
 end
