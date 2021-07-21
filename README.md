@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- https://i.imgur.com/jabZg7z.png -->
 
 
@@ -74,3 +75,6 @@ The frontend GitHub can be found [here.](https://github.com/Avisa-GA/persian-foo
       width="15%" />
   </a>
 </div>
+=======
+
+>>>>>>> fa3174dfd73d3db5d288dcc626c9a3cf1d073424
