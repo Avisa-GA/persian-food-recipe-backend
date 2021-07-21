@@ -1,3 +1,5 @@
+<!-- https://i.imgur.com/jabZg7z.png -->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,7 +36,7 @@
 # **About The Project**
 The Persian Recipe Food App is built with Rails on the backend and serves JSON API with full CRUD operations on the food model.  
 
-The live version of this app can be viewed [here.](INSERT-DEPLOYMENT-LINK-HERE)
+The live version of this app can be viewed [here.](https://cocky-aryabhata-964b73.netlify.app/)
 
 The frontend GitHub can be found [here.](https://github.com/Avisa-GA/persian-food-recipe-frontend)
 
@@ -72,5 +74,4 @@ The frontend GitHub can be found [here.](https://github.com/Avisa-GA/persian-foo
       width="15%" />
   </a>
 </div>
-=======
 
