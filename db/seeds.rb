@@ -317,33 +317,6 @@ Food.create([
 
 {
     "directions": [
-        "Sprinkle 2 teaspoons salt over eggplant.",
-        "Heat oil in a large saucepan over medium-high heat. Cook eggplants until soft and browned, about 3 minutes per side. Drain on paper towels.",
-        "Heat 1 tablespoon oil in a large saucepan over medium heat. Cook and stir onion and garlic until softened, about 5 minutes. Stir in stew meat, beef bouillon, cumin, and saffron; cook meat until browned, about 5 minutes. Stir in tomato paste until well mixed.",
-        "Pour water and tomato sauce into the saucepan. Reduce heat to low and cover; cook, stirring occasionally, until sauce is reduced by half, about 2 hours 20 minutes. Stir in eggplants. Cook until heated through, about 10 minutes."
-    ],
-    "ingredients": [
-        "1 tablespoon salt, divided",
-        "5 Japanese eggplants, peeled, tops left intact",
-        "1 cup vegetable oil",
-        "1 tablespoon vegetable oil",
-        "1 large white onion, chopped",
-        "1 1/2 teaspoons chopped garlic",
-        "1 pound cubed stew meat",
-        "1 cube beef bouillon",
-        "1 teaspoon ground cumin",
-        "1 teaspoon saffron",
-        "1/2 (6 ounce) can tomato paste",
-        "2 cups water",
-        "1 (15 ounce) can tomato sauce"
-    ],
-    "title": "Persian Eggplant Stew",
-    "url": "http://allrecipes.com/recipe/256942/persian-eggplant-stew/",
-    "img": "https://www.linsfood.com/wp-content/uploads/2021/02/persian-eggplant-and-lamb-stew-linsfood.jpg"
-},
-
-{
-    "directions": [
         "Heat the olive oil in a skillet over medium heat. Cook and stir the onion until tender, and quickly brown the chicken on all sides. Remove from skillet, and set aside.",
         "Place the ground walnuts in the remaining oil in the skillet. Over medium heat, cook and stir 5 to 10 minutes, until lightly browned.",
         "Return the onion and chicken to the skillet with the walnuts, and blend in the pomegranate paste. Reduce heat to low, cover, and simmer 20 minutes, stirring occasionally, until chicken is no longer pink and juices run clear."
