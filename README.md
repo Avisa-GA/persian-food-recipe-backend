@@ -1,5 +1,3 @@
-<!-- https://i.imgur.com/jabZg7z.png -->
-
 
 <!-- PROJECT LOGO -->
 <br />
