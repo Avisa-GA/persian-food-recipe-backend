@@ -59,7 +59,7 @@ Food.create([
         "1/2 teaspoon saffron",
         "1/2 teaspoon cardamom"
     ],
-    "title": "Persian Cream Puffs _(Noon'e Chamei)_",
+    "title": "Persian Cream Puffs",
     "url": "http://www.epicurious.com/recipes/food/views/persian-cream-puffs-em-noone-chamei-em-51110000",
     "img": "https://assets.epicurious.com/photos/56040116c301a9f945f0612a/6:4/w_620%2Ch_413/51110000_hires.jpg"
 },
@@ -120,7 +120,7 @@ Food.create([
         "1/2 cup fresh flat-leaf parsley, minced",
         "2 cups plain yogurt"
     ],
-    "title": "Persian New Year's Soup with Beans, Noodles, and Herbs _(Ash-e-reshteh)_",
+    "title": "Persian New Year's Soup with Beans, Noodles, and Herbs",
     "url": "http://www.epicurious.com/recipes/food/views/persian-new-years-soup-with-beans-noodles-and-herbs-em-ash-e-reshteh-em-363446",
     "img": "https://assets.epicurious.com/photos/54b31359460b4423363e972b/6:4/w_620%2Ch_413/363446_persian-new-year's-soup_1x1.jpg"
 },
@@ -312,7 +312,7 @@ Food.create([
     ],
     "title": "Persian Cucumber Yogurt (Maast-o Khiar)",
     "url": "http://allrecipes.com/recipe/59143/persian-cucumber-yogurt-maast-o-khia/",
-    "img": "https://www.thedeliciouscrescent.com/wp-content/uploads/2017/09/Mast-O-Khiar-Persian-Cucumber-Yogurt-Salad-3.jpg"
+    "img": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex9/merlin_154113654_5408eef0-6a17-476c-ab05-9d62d6c4635c-articleLarge.jpg"
 },
 
 {
@@ -366,7 +366,8 @@ Food.create([
         "2 pounds beef top sirloin, cut into large cubes"
     ],
     "title": "Persian Kabob",
-    "url": "https://familyspice.com/wp-content/uploads/2018/03/rustic_kabob_koobideh_680.jpg"
+    "url": "https://familyspice.com/wp-content/uploads/2018/03/rustic_kabob_koobideh_680.jpg",
+    "img": "https://i0.wp.com/iran-cuisine.com/wp-content/uploads/2020/10/koobideh.jpg?fit=828%2C1013&ssl=1"
 },
 
 {
@@ -442,6 +443,187 @@ Food.create([
     "title": "Persian Sabzi Polo (Herb Rice with Fava Beans)",
     "url": "http://allrecipes.com/recipe/25275/persian-sabzi-polo-herb-rice-with-fa/",
     "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F253957.jpg&w=596&h=399&c=sc&poi=face&q=85"
+},
+
+{
+    "directions": [
+        "Cut beef into cubes 1x1/2 inch.  Add to a medium mixing bowl along with the onion, salt, black pepper, and lime juice.  Mix well, cover, and refrigerate overnight.",
+        "Preheat grill for high heat.",
+        "Thread beef on skewers, 6 to 8 pieces per skewer.",
+        "Lightly oil grate, and place kebobs on grill. Cook for 3 to 4 minutes per side, 12 to 16 minutes in all."
+    ],
+    "ingredients": [
+        "2 pounds beef tenderloin",
+        "1 onion, chopped",
+        "1 tablespoon salt",
+        "1 pinch ground black pepper",
+        "1/8 cup fresh lime juice"
+    ],
+    "title": "Persian Shish Kabob",
+    "url": "http://allrecipes.com/recipe/14515/persian-shish-kabob/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9230492.jpg&q=85"
+},
+
+{
+    "directions": [
+        "Heat 1 tablespoon oil in skillet over medium high heat. Add pumpkin and saute until light golden brown, about 5 minutes",
+        "Heat 2 tablespoons oil in a stock pot over medium high heat. Add onions and garlic and saute over medium-high heat until golden, about 5 minutes. Stir in tumeric. Add beef and saute until brown, about 5 minutes. Add water, salt, and pepper; bring to a boil, reduce heat, and simmer until beef is slightly tender, about 30 minutes.",
+        "Stir pumkin, prunes, vinegar, sugar, salt, and cinnamon to stock pot and simmer until beef and pumpkin are tender, about 45 minutes. Garnish with saffron."
+    ],
+    "ingredients": [
+        "3 tablespoons vegetable oil, divided",
+        "1/2 pumpkin - peeled, seeded, and cut into 2-inch cubes",
+        "1 small onion, chopped",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon ground turmeric",
+        "1 pound beef stew meat, cut into 1 inch cubes",
+        "2 cups water",
+        "1/2 teaspoon ground black pepper",
+        "12 pitted prunes",
+        "2 tablespoons vinegar",
+        "2 tablespoons sugar",
+        "2 teaspoons salt",
+        "1/2 teaspoon ground cinnamon",
+        "1/3 teaspoon saffron (optional)"
+    ],
+    "title": "Persian-Style Pumpkin Stew",
+    "url": "http://allrecipes.com/recipe/240450/persian-style-pumpkin-stew/",
+    "img": "https://1.bp.blogspot.com/-YR6fsqlOa4U/VHSxbTFNARI/AAAAAAAAE7k/deoElm-zFXU/s1600/Persian%2BPumpkin%2BStew%2B-%2BTurmericSaffron.jpg"
+},
+
+{
+    "directions": [
+        "Combine the tomatoes, avocados, garlic, onion, and cilantro in a large bowl.  Sprinkle with lime juice, and season with salt and pepper. Garnish salad with thin lime slices."
+    ],
+    "ingredients": [
+        "4 ripe tomatoes, diced",
+        "2 Hass avocados, diced",
+        "1 clove garlic, minced",
+        "3 tablespoons chopped red onion",
+        "6 sprigs cilantro, chopped",
+        "2 tablespoons fresh lime juice",
+        "salt and ground black pepper to taste",
+        "1 lime, sliced into thin rounds"
+    ],
+    "title": "Persian-Style Tomato Avocado Salad",
+    "url": "http://allrecipes.com/recipe/202375/persian-style-tomato-avocado-salad/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1016237.jpg&w=827&h=827&c=sc&poi=face&q=85"
+},
+
+{
+    "directions": [
+        "In a medium bowl, blend yogurt, dill weed, garlic, salt, and pepper. Toss in the cucumber. Cover, and refrigerate 8 hours, or overnight."
+    ],
+    "ingredients": [
+        "1 (32 ounce) container plain yogurt",
+        "2 tablespoons dried dill weed",
+        "2 cloves garlic, minced",
+        "salt and black pepper to taste",
+        "1 cucumber - peeled, seeded, and chopped"
+    ],
+    "title": "Persian Yogurt Salad",
+    "url": "http://allrecipes.com/recipe/30220/persian-yogurt-salad/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8531455.jpg&q=85"
+},
+
+{
+    "directions": [
+        "Pour oil into a pot. Cover the bottom of the pot with onions; add lamb. Season with 1/2 teaspoon salt, pepper, turmeric, and cinnamon.",
+        "Layer garlic, ginger, prunes, carrots, quince, eggplant, and tomato onto the seasoned lamb. Sprinkle with 1 pinch of salt. Pour in water, tomato juice, and lemon juice.",
+        "Cook, covered, over low heat, until lamb is tender, 2 to 2 1/2 hours. Add potatoes and cover. Cook until potatoes are soft, about 30 minutes."
+    ],
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "2 onions, sliced 1/2-inch thick",
+        "1 pound lamb, cut into 1-inch cubes",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon ground turmeric",
+        "1/4 teaspoon ground cinnamon",
+        "3 cloves garlic, minced",
+        "1 (1 inch) piece fresh ginger, sliced (optional)",
+        "1/2 cup pitted prunes",
+        "2 carrots, peeled and sliced",
+        "1 quince, cored and sliced",
+        "1 large eggplant, peeled and cut into 1-inch slices",
+        "1 tomato, sliced",
+        "1 pinch salt",
+        "1 cup water",
+        "1/2 cup tomato juice",
+        "2 tablespoons lemon juice (optional)",
+        "3 potatoes, peeled and sliced"
+    ],
+    "title": "Tas Kebab (Persian Lamb and Vegetable Stew)",
+    "url": "http://allrecipes.com/recipe/255440/tas-kebab-persian-lamb-and-vegetable/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1098962.jpg"
+},
+
+{
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together the ground walnuts, 3 egg yolks, sugar, cardamom, baking soda and rose water until well blended. Roll teaspoon sized pieces of dough into balls and place onto parchment-lined baking sheets. Cookies should be spaced 2 inches apart. Whisk together the remaining egg yolk and water using a fork. Press a walnut piece into each cookie, then brush with the egg yolk glaze.",
+        "Bake for 20 minutes in the preheated oven, or until golden. The cookies will appear soft and undercooked but take heart, they will harden considerably when cooled. Allow them to cool on the baking sheets for at least 10 minutes before transferring to a wire rack to cool completely."
+    ],
+    "ingredients": [
+        "1 1/2 cups finely ground walnuts",
+        "3 egg yolks",
+        "3/4 cup white sugar",
+        "1 tablespoon ground cardamom",
+        "1 teaspoon baking soda",
+        "1 tablespoon rose water",
+        "1 egg yolk",
+        "1 teaspoon water",
+        "1/2 cup walnut pieces for decoration"
+    ],
+    "title": "The Rebbetzin Chef's Persian Walnut Cookies",
+    "url": "http://allrecipes.com/recipe/103170/the-rebbetzin-chefs-persian-walnut-c/",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F106163.jpg&w=596&h=399&c=sc&poi=face&q=85"
+},
+
+{
+    "directions": [
+        "Dissolve rice flour in water in a bowl and pour into a saucepan over medium heat. Whisk milk, cream, and cornstarch in a bowl and pour into the saucepan. Bring rice flour and milk mixture to a boil. Add sugar and rose water; reduce heat to low and simmer, stirring constantly, until sugar is dissolved and pudding thickens, about 5 minutes.",
+        "Scoop pudding into small serving bowls and garnish with pistachios, almonds, and rose petals. Place bowls in the refrigerator to cool completely, about 1 hour."
+    ],
+    "ingredients": [
+        "3/4 cup rice flour",
+        "2 cups water",
+        "2 cups milk",
+        "1 cup heavy whipping cream",
+        "1/4 cup cornstarch",
+        "3/4 cup white sugar",
+        "5 tablespoons rose water",
+        "2 tablespoons crushed pistachios",
+        "2 tablespoons chopped almonds",
+        "1 tablespoon dried rose petals"
+    ],
+    "title": "Yakh Dar Behesht (Persian Milk Pudding)",
+    "url": "http://allrecipes.com/recipe/245479/yakh-dar-behesht-persian-milk-puddin/",
+    "img": "https://1.bp.blogspot.com/-B8aOMxEAwJM/VcOVWEAXDEI/AAAAAAAAGaI/ZQ7SACBr09c/w640-h382/Ice%2Bin%2BParadise_TurmericSaffron.jpg"
+},
+
+{
+    "directions": [
+        "Mix green olives, olive oil, walnuts, almonds, pomegranate molasses, mint, tarragon, lemon juice, garlic, balsamic vinegar, thyme, salt, and pepper in a large bowl.",
+        "Chill for at least 3 hours before serving."
+    ],
+    "ingredients": [
+        "2 (6 ounce) jars unseasoned green olives, coarsely chopped",
+        "1/3 cup olive oil",
+        "1/3 cup ground walnuts",
+        "1/3 cup ground almonds",
+        "1/4 cup pomegranate molasses",
+        "1/4 cup chopped fresh mint",
+        "1/4 cup chopped fresh tarragon",
+        "2 tablespoons lemon juice",
+        "2 cloves garlic, chopped",
+        "1 teaspoon balsamic vinegar",
+        "1/2 teaspoon ground thyme",
+        "salt and ground black pepper to taste"
+    ],
+    "title": "Zeytoon Parvardeh (Persian Olive Pomegranate Dip)",
+    "url": "http://allrecipes.com/recipe/256931/zeytoon-parvardeh-persian-olive-pome/",
+    "img": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2018/03/06/Food/Images/fd-studio_004-001.JPG"
 }
 
 ])
