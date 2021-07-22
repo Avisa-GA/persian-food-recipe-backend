@@ -49,9 +49,8 @@ class FoodsController < ApplicationController
       @food = Food.find(params[:id])
     end
 
-    
-
     # Only allow a list of trusted parameters through.
+    # * This is challenging part ******************************************
     def food_params
       params.require(:food).permit(:title, :url, :img, :directions => [], :ingredients => [])
     end
