@@ -52,8 +52,7 @@ The frontend GitHub can be found [here.](https://github.com/Avisa-GA/persian-foo
 
 # **Future Enhancements**
 * Ability for users to add a recipe review
-* Ability for users to search recipes by tag/name
-* Ability for users to upload their own image through cloudinary
+
 
 # **Authors**
 
